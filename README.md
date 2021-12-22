@@ -8,3 +8,17 @@ To analyse greenwashing in the US metal industry, we combined satellite data fro
 For more information please check out our paper "Greenwashing in the US metal industry? A novel approach combining SO2 emissions from satellite data, a plant-level firm database and web text mining."
 
 Contact: sebastian.schmidt@plus.ac.at
+
+<b>Dependencies</b>
+<li> Python 3.8.5
+<li> esda: 2.3.6 
+<li> geopandas: 0.8.1
+<li> libpysal: 4.4.0
+<li> matplotlib: 3.3.4
+<li> numpy: 1.19.2 
+<li> pandas: 1.1.5 
+<li> seaborn: 0.11.0 
+<li> scikit-learn: 0.24.1 
+<li> shapely: 1.7.1 
+<li> spreg: 1.2.2
+
